@@ -1,0 +1,8 @@
+#goal
+turtlesim/Pose referencePose
+---
+#result
+string status
+---
+#feedback
+turtlesim/Pose actualPose
