@@ -2,7 +2,7 @@
 
 A ROS package that continuously orientates a robot using a reference.
 
-## Requerements
+## Requirements
 
 - docker
 - docker-compose
